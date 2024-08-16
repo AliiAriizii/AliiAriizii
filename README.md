@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliiAriizii
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... python again
+- 👀 I’m interested in ... python And Also Flutter
+- 🌱 I’m currently learning ... python again and flutter again
 - 💞️ I’m looking to collaborate on ... not evrything
 - 📫 How to reach me ...actully idk 
 
